@@ -35,6 +35,9 @@ nav ul{
     gap: 30px;
     
 }
+li a{
+    color: hsl(236, 13%, 42%);
+}
 main{
     /* width: 100%; */
     /* background-color: aqua; */
@@ -93,7 +96,7 @@ aside{
 }
 
 aside h2{
-    /* color: hsl(35, 77%, 62%); */
+    color: hsl(35, 77%, 62%);
     font-weight: 700;
     margin-bottom: 20px;
 }

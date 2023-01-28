@@ -81,7 +81,8 @@ li a{
         width: 70%;
         /* height: 300px; */
         background-color: hsl(36, 100%, 99%);
-        /* opacity: 0; */
+        visibility: hidden;
+
     }
     .navbar .close-icon{
         display: block;

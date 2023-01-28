@@ -10,8 +10,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    font-family: 'Inter', sans-serif;
-    
+    font-family: 'Inter', sans-serif;       
 }
 p{
     font-size: 15px;
@@ -135,5 +134,3 @@ section .card {
     color: hsl(236, 13%, 42%);
     /* margin: 10px 0; */
 }
-
-
